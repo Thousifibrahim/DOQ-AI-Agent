@@ -11,7 +11,7 @@
 
 </div>
 
-#  DOQ AI Assistant
+##  DOQ AI Assistant
 
 ###  What This Does
 
